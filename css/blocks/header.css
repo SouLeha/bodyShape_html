@@ -1,0 +1,15 @@
+.header {
+  /* background-color: aqua; */
+  height: 750px;
+
+  /* background-image: url("./../../img/hero/hero-bg.jpg"); */
+
+  background-image: image-set(
+    url("./../../img/hero/hero-bg.jpg") 1x,
+    url("./../../img/hero/hero-bg@2x.jpg") 2x
+  );
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
