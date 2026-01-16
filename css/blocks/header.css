@@ -13,3 +13,14 @@
   background-size: cover;
   background-position: center;
 }
+
+.header-row {
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.header-nav {
+
+}
