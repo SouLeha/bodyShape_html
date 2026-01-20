@@ -11,6 +11,8 @@ body {
 
   font-family: var(--font-base);
   font-weight: 300;
+
+  padding-bottom: 600px; /*на момент разработки */
 }
 
 a {
