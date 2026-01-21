@@ -14,3 +14,22 @@
   letter-spacing: 0.07em;
   color: var(--accent);
 }
+
+@media (max-width: 1200px) {
+  .card-group-title {
+   font-size: 36px;
+  }
+}
+
+@media (max-width: 800px) {
+  .card-group-title {
+   font-size: 28px;
+  }
+}
+
+@media (max-width: 380px) {
+  .card-group-title {
+   font-size: 28px;
+   text-align: center;
+  }
+}
