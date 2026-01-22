@@ -16,10 +16,6 @@
   color: var(--accent);
 }
 
-.footer-socials-item a:hover {}
-
-.foorer-socials-link:hover {}
-
 .footer-contacts {
   display: flex;
   gap: 50px;

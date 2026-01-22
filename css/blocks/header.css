@@ -1,9 +1,6 @@
 .header {
-  /* background-color: aqua; */
   padding-top: 30px;
   height: 750px;
-
-  /* background-image: url("./../../img/hero/hero-bg.jpg"); */
 
   background-image: image-set(
     url("./../../img/hero/hero-bg.jpg") 1x,
